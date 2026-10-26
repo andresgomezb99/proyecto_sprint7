@@ -16,4 +16,4 @@ La aplicación proporciona un cuadro de mandos dinámico donde el usuario puede:
 
 La aplicación se encuentra desplegada y accesible públicamente en el siguiente enlace:
 
-[Ver Aplicación Web en Render](https://tu-aplicacion.onrender.com)
+[Ver Aplicación Web en Render](https://proyecto-sprint7-2px3.onrender.com)
